@@ -1,0 +1,6 @@
+framework module Pods_Sankets_TestApp {
+  umbrella header "Pods-Sankets-TestApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
